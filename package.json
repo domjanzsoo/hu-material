@@ -1,0 +1,23 @@
+{
+  "name": "hu-material",
+  "version": "1.0.0",
+  "description": "Material component used by highup projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domjanzsoo/hu-material.git"
+  },
+  "keywords": [
+    "material",
+    "high-up"
+  ],
+  "author": "Zsolt Domjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domjanzsoo/hu-material/issues"
+  },
+  "homepage": "https://github.com/domjanzsoo/hu-material#readme"
+}
